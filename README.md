@@ -2,16 +2,16 @@
 
 List all contacts:
 
-![list](https://prnt.sc/2r7yRZUuoll1)
+![list](https://github.com/made-by-curiosity/nodejs-hw1/blob/main/assets/list.jpg)
 
 Get contact by ID:
 
-![get](https://prnt.sc/XMs0vs00lfI2)
+![get](https://github.com/made-by-curiosity/nodejs-hw1/blob/main/assets/get.jpg)
 
 Add contact:
 
-![add](https://prnt.sc/FjUVU0C76BF5)
+![add](https://github.com/made-by-curiosity/nodejs-hw1/blob/main/assets/add.jpg)
 
 Delete contact by ID:
 
-![remove](https://prnt.sc/OinaejHEP1yC)
+![remove](https://github.com/made-by-curiosity/nodejs-hw1/blob/main/assets/remove.jpg)
